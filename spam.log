@@ -1,0 +1,22 @@
+Checking symbol.
+Start to fetch prices for BTC-USD
+Retrieved BTC-USD info {'Symbol': 'BTC-USD', 'LastTradePrice': '6264.11000000', 'Timestamp': '1540949861.6245363'}
+Sent price for BTC-USD to kafka
+Start to fetch prices for BTC-USD
+Retrieved BTC-USD info {'Symbol': 'BTC-USD', 'LastTradePrice': '6264.11000000', 'Timestamp': '1540949862.7388253'}
+Sent price for BTC-USD to kafka
+Start to fetch prices for BTC-USD
+Retrieved BTC-USD info {'Symbol': 'BTC-USD', 'LastTradePrice': '6264.11000000', 'Timestamp': '1540949863.8397684'}
+Sent price for BTC-USD to kafka
+Start to fetch prices for BTC-USD
+Retrieved BTC-USD info {'Symbol': 'BTC-USD', 'LastTradePrice': '6264.11000000', 'Timestamp': '1540949864.9744942'}
+Sent price for BTC-USD to kafka
+Start to fetch prices for BTC-USD
+Retrieved BTC-USD info {'Symbol': 'BTC-USD', 'LastTradePrice': '6264.11000000', 'Timestamp': '1540949866.0731866'}
+Sent price for BTC-USD to kafka
+Start to fetch prices for BTC-USD
+Retrieved BTC-USD info {'Symbol': 'BTC-USD', 'LastTradePrice': '6264.11000000', 'Timestamp': '1540949867.1816509'}
+Sent price for BTC-USD to kafka
+Start to fetch prices for BTC-USD
+Retrieved BTC-USD info {'Symbol': 'BTC-USD', 'LastTradePrice': '6264.11000000', 'Timestamp': '1540949868.2999794'}
+Sent price for BTC-USD to kafka
